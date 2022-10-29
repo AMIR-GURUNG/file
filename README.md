@@ -1,4 +1,4 @@
 rm -rf File 
 git clone https://github.com/AMIR-GURUNG/File 
-cd File 
+cd file 
 python file.py
